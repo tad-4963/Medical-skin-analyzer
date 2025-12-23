@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+python-multipart
+pydantic
+pydantic-settings
+torch
+torchvision
+pillow
+numpy
+langchain
+langchain-openai
+langchain_huggingface
+langchain_chroma
+chromadb
+sentence-transformers
+pypdf
