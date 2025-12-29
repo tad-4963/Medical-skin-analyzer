@@ -1,0 +1,86 @@
+
+
+# HỒ SƠ BỆNH LÝ: DÀY SỪNG TIẾT BÃ (SEBORRHEIC KERATOSIS)
+
+## 1. Định nghĩa khoa học
+
+**Dày sừng tiết bã** (tên khoa học: *Seborrheic Keratosis*) là loại u lành tính phổ biến nhất ở biểu bì da, thường gặp ở người trưởng thành và người cao tuổi.
+
+Mặc dù tên gọi có chữ "tiết bã", nhưng bệnh lý này thực chất **không liên quan đến tuyến bã nhờn** hay sự tiết dầu, mà bắt nguồn từ sự tăng sinh của **tế bào sừng (keratinocytes)**. Đây là tổn thương hoàn toàn lành tính, không lây nhiễm và không có khả năng chuyển biến thành ung thư (trừ các trường hợp rất hiếm gặp khi ung thư phát triển xen kẽ bên trong tổn thương).
+
+## 2. Dấu hiệu nhận biết và Hình thái lâm sàng
+
+Dày sừng tiết bã có hình thái rất đặc trưng, trong y văn thường mô tả là có vẻ ngoài như **"sáp nến nhỏ lên da"** hoặc **"miếng đất sét dán vào da"** (stuck-on appearance).
+
+### A. Đặc điểm hình thái:
+
+* **Bề mặt:** Thường sần sùi, thô ráp, có thể nứt nẻ hoặc lỗ rỗ. Một số ít trường hợp bề mặt mịn như nhung.
+* **Màu sắc:** Rất đa dạng, từ màu da, vàng nhạt, nâu, xám đến đen tuyền. Màu sắc có thể đậm dần theo thời gian.
+* **Dấu hiệu đặc trưng (Tiêu chuẩn vàng):** Khi quan sát kỹ (hoặc dùng kính lúp/dermoscopy), có thể thấy các chấm nhỏ màu trắng hoặc đen trên bề mặt tổn thương, đây là các **nang giả sừng (horn cysts)**.
+* **Ranh giới:** Rõ rệt, sắc nét với da lành xung quanh.
+
+### B. Vị trí và Triệu chứng cơ năng:
+
+* **Vị trí:** Xuất hiện ở bất kỳ đâu trên cơ thể (lưng, ngực, mặt, cổ, da đầu), **ngoại trừ** lòng bàn tay và lòng bàn chân (vì vùng này không có nang lông).
+* **Số lượng:** Có thể chỉ có một nốt đơn độc hoặc mọc thành đám hàng chục nốt.
+* **Cảm giác:** Thường không đau, nhưng có thể gây ngứa nhẹ. Do gồ cao nên dễ bị vướng vào quần áo, trang sức gây bong tróc hoặc chảy máu.
+
+## 3. Nguyên nhân và Yếu tố nguy cơ
+
+Nguyên nhân chính xác chưa được xác định rõ, nhưng sự hình thành dày sừng tiết bã liên quan mật thiết đến lão hóa và di truyền hơn là ánh nắng.
+
+* **Lão hóa da:** Đây là yếu tố chính. Bệnh thường bắt đầu xuất hiện sau tuổi 30-40 và tăng dần số lượng theo tuổi tác. Gần như 100% người già đều có ít nhất một nốt.
+* **Di truyền:** Yếu tố gia đình đóng vai trò quan trọng. Nếu cha mẹ có nhiều nốt dày sừng tiết bã, con cái có xu hướng xuất hiện bệnh sớm hơn và số lượng nhiều hơn (Di truyền trội trên NST thường).
+* **Đột biến gen:** Các nghiên cứu tìm thấy đột biến gen *FGFR3* trong phần lớn các thương tổn, kích thích tế bào sừng tăng trưởng dày lên.
+* **Ánh nắng mặt trời:** Mặc dù thường gặp ở vùng da hở, nhưng bệnh cũng xuất hiện ở vùng da che kín, nên tia UV chỉ là yếu tố cộng hưởng.
+
+## 4. Chẩn đoán phân biệt
+
+Dù lành tính, nhưng do Dày sừng tiết bã thường có màu đen hoặc nâu sẫm nên rất dễ nhầm lẫn với các bệnh lý sắc tố nguy hiểm.
+
+| Bệnh lý | Đặc điểm phân biệt với Dày sừng tiết bã |
+| --- | --- |
+| **U hắc tố ác tính (Melanoma)** | Quan trọng nhất. Melanoma bề mặt trơn láng (không sần như sáp), màu sắc loang lổ, bờ nham nhở, không có nang giả sừng. Dày sừng tiết bã trông như "dán" lên da, Melanoma trông như xuất phát từ *trong* da. |
+| **Nốt ruồi (Nevus)** | Nốt ruồi thường xuất hiện từ nhỏ, bề mặt mịn hơn, cấu trúc mềm mại hơn. |
+| **Mụn cóc (Verruca vulgaris)** | Do virus HPV. Mụn cóc cũng sần sùi nhưng thường gặp ở tay chân, trẻ em và có thể tự biến mất (Dày sừng tiết bã không tự hết và kích thước lớn dần). |
+| **Dày sừng ánh sáng (Actinic Keratosis)** | Tổn thương tiền ung thư, thường là dát phẳng, đỏ, nhám, khó cạy bỏ hơn dày sừng tiết bã, chủ yếu ở vùng phơi sáng. |
+
+## 5. Phác đồ điều trị chi tiết
+
+Về nguyên tắc y khoa, Dày sừng tiết bã **không cần điều trị** vì chúng vô hại. Tuy nhiên, bệnh nhân thường muốn loại bỏ vì lý do thẩm mỹ hoặc do nốt sần bị cọ xát gây khó chịu, viêm nhiễm.
+
+**Lưu ý:** Không có thuốc bôi (kem/thuốc mỡ) nào thực sự hiệu quả để làm rụng Dày sừng tiết bã.
+
+### A. Liệu pháp lạnh (Cryotherapy) - Phổ biến nhất
+
+* **Kỹ thuật:** Bác sĩ dùng Nitơ lỏng (-196°C) xịt trực tiếp hoặc chấm vào tổn thương.
+* **Cơ chế:** Nhiệt độ cực thấp làm phá hủy tế bào sừng tăng sinh.
+* **Ưu điểm:** Nhanh, rẻ tiền, ít nguy cơ sẹo lồi.
+* **Diễn tiến:** Sau khi xịt, nốt sần sẽ phồng rộp nhẹ, đóng vảy đen và tự rụng sau 1-2 tuần.
+
+### B. Nạo và Đốt điện (Curettage and Electrocautery)
+
+* **Kỹ thuật:** Gây tê tại chỗ, dùng thìa nạo (curette) để cạo bỏ tổn thương (rất dễ vì chân nó nông), sau đó đốt cầm máu nền bằng điện.
+* **Chỉ định:** Thường dùng cho các nốt kích thước lớn hoặc dày.
+* **Ưu điểm:** Loại bỏ triệt để ngay lập tức, có thể lấy mẫu đi làm xét nghiệm mô bệnh học nếu nghi ngờ ác tính.
+
+### C. Laser CO2
+
+* **Kỹ thuật:** Dùng tia Laser để làm bốc bay tổ chức u từng lớp một.
+* **Ưu điểm:** Độ chính xác cao, ít chảy máu, thời gian lành thương nhanh và thẩm mỹ tốt nhất trong các phương pháp.
+
+## 6. Lời khuyên chăm sóc tại nhà
+
+* **Không tự ý cào, cạy:** Việc cào gãi nốt dày sừng tiết bã có thể gây chảy máu, nhiễm trùng tụ cầu và kích thích tổn thương dày lên thêm.
+* **Theo dõi sự thay đổi:** Dù lành tính, nhưng nếu một nốt dày sừng tiết bã bỗng nhiên thay đổi màu sắc nhanh chóng, chảy máu tự nhiên, hoặc đau nhức, cần đi khám bác sĩ ngay để loại trừ ung thư hắc tố *dạng giống* dày sừng tiết bã.
+* **Chăm sóc sau điều trị:** Nếu đã thực hiện bắn Laser hoặc đốt điện:
+* Giữ vết thương khô trong 24h đầu.
+* Tránh nắng kỹ để hạn chế thâm (tăng sắc tố sau viêm).
+* Bôi kem dưỡng ẩm/tái tạo da khi vảy đã bong.
+
+
+
+---
+
+**Ghi chú chuyên môn cho Chatbot:**
+Khi người dùng gửi ảnh Dày sừng tiết bã, hệ thống nên đưa ra lời khuyên trấn an vì đây là bệnh lành tính (Benign), nhưng cần khuyến cáo người dùng không tự mua axit tẩy nốt ruồi về chấm vì nốt này thường to và chân rộng, chấm axit rất dễ gây sẹo loang lổ.

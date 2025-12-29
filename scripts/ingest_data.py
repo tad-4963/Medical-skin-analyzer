@@ -5,14 +5,14 @@ from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain_community.vectorstores import Chroma
 
-# --- CẤU HÌNH ---
+
 DATA_PATH = "../data/documents"      #file PDF/TXT
 DB_PATH = "../data/vector_db"        
 EMBEDDING_MODEL = "all-MiniLM-L6-v2" 
 
 def create_vector_db():
     if not os.path.exists(DATA_PATH):
-        print(f"❌ Lỗi: Không tìm thấy thư mục {DATA_PATH}")
+        print(f"Lỗi: Không tìm thấy thư mục {DATA_PATH}")
         return
 
     print("Đang đọc tài liệu từ folder data/documents/...")

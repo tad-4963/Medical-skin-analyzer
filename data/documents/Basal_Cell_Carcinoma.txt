@@ -1,0 +1,98 @@
+# HỒ SƠ BỆNH LÝ: UNG THƯ BIỂU MÔ TẾ BÀO ĐÁY (BCC)
+
+## 1. Định nghĩa khoa học
+
+**Ung thư biểu mô tế bào đáy** (tên khoa học: *Basal Cell Carcinoma*) là khối u ác tính xuất phát từ các tế bào đáy (basal cells) nằm ở lớp sâu nhất của thượng bì hoặc từ các nang lông.
+
+* **Đặc tính sinh học:** Đây là loại ung thư có **tiên lượng tốt nhất**. Nó phát triển rất chậm, gần như **không bao giờ di căn xa** (tỷ lệ di căn < 0.1%).
+* **Nguy hiểm cục bộ:** Tuy nhiên, nếu không điều trị, khối u sẽ xâm lấn tại chỗ, "gặm nhấm" phá hủy mô da, sụn, xương (đặc biệt nguy hiểm ở vùng mắt, mũi, tai), gây biến dạng khuôn mặt nghiêm trọng (nên còn gọi là "loét gặm nhấm" - rodent ulcer).
+
+## 2. Dấu hiệu nhận biết và Hình thái lâm sàng
+
+BCC có nhiều thể lâm sàng, nhưng đặc điểm chung kinh điển là **"Hạt ngọc" (Pearly papule)** và **"Giãn mạch" (Telangiectasia)**.
+
+### A. Thể nốt (Nodular BCC) - Phổ biến nhất (60%)
+
+* **Vị trí:** Thường gặp ở vùng đầu mặt (mũi, má, trán).
+* **Hình thái:** Sẩn hoặc cục gồ cao, tròn, bề mặt căng bóng như **hạt ngọc** (bóng kính/sáp nến).
+* **Mạch máu:** Có các mạch máu nhỏ ngoằn ngoèo (giãn mạch) chạy trên bề mặt u.
+* **Tiến triển:** Trung tâm khối u thường lõm xuống, loét và đóng vảy tiết, xung quanh có bờ gồ cao cuộn lại (**rolled border**).
+
+### B. Thể nông (Superficial BCC) - Dễ nhầm lẫn
+
+* **Vị trí:** Thường gặp ở thân mình (lưng, ngực).
+* **Hình thái:** Dát hoặc mảng màu hồng/đỏ, hình tròn hoặc oval, bề mặt bong vảy nhẹ.
+* **Đặc điểm:** Trông rất giống bệnh chàm (Eczema) hoặc vảy nến, nhưng giới hạn rõ và có bờ viền mảnh hơi gồ lên như sợi chỉ (thread-like border).
+
+### C. Thể sắc tố (Pigmented BCC)
+
+* **Đặc điểm:** Giống thể nốt nhưng có chứa sắc tố melanin màu nâu hoặc đen.
+* **Lưu ý:** Rất dễ nhầm với U hắc tố (Melanoma) hoặc Nốt ruồi. Tuy nhiên, BCC sắc tố thường vẫn giữ được độ bóng và tính chất bờ cuộn.
+
+### D. Thể xơ hóa (Morpheaform/Sclerosing BCC) - Nguy hiểm nhất
+
+* **Hình thái:** Nhìn giống như một **vết sẹo** cũ màu trắng ngà hoặc vàng nhạt, sờ thấy cứng, ranh giới không rõ ràng.
+* **Nguy hiểm:** Bề mặt nhìn rất nhỏ nhưng chân rễ bên dưới lan tỏa rất rộng và sâu. Đây là thể khó điều trị triệt để nhất.
+
+## 3. Nguyên nhân và Yếu tố nguy cơ
+
+Sự đột biến gen *PTCH1* trong con đường tín hiệu Hedgehog là cơ chế chính.
+
+* **Tia cực tím (UV):** Cả phơi nhiễm ngắt quãng cường độ cao (cháy nắng khi đi biển) và phơi nhiễm tích lũy (làm việc ngoài trời) đều gây bệnh.
+* **Tuýp da:** Người da trắng, mắt sáng màu (Fitzpatrick I, II) có nguy cơ cao nhất. Người Châu Á (Fitzpatrick III, IV) ít bị hơn nhưng vẫn gặp (thường là thể sắc tố).
+* **Tiền sử xạ trị:** Những người từng xạ trị mụn trứng cá hoặc nấm da đầu trước đây.
+* **Nhiễm Asen (Thạch tín):** Do nguồn nước ô nhiễm.
+
+## 4. Chẩn đoán phân biệt
+
+AI cần được huấn luyện kỹ các đặc điểm sau để tránh dương tính giả/âm tính giả:
+
+| Bệnh lý | Đặc điểm phân biệt với BCC |
+| --- | --- |
+| **U tuyến bã (Sebaceous Hyperplasia)** | *Rất giống BCC thể nốt.* Là u lành tính, màu vàng nhạt, có lõm ở giữa nhưng *mềm* hơn BCC, và có nhiều múi nhỏ như múi cam, không có loét gặm nhấm. |
+| **Ung thư tế bào vảy (SCC)** | SCC thường sần sùi, cứng, dày sừng (vảy dày). BCC thường bóng, láng, dễ chảy máu nhưng vảy mỏng (vảy tiết). |
+| **Bệnh chàm/Vảy nến** | Phân biệt với BCC thể nông. Chàm thường ngứa nhiều, đáp ứng với corticoid bôi. BCC thể nông không ngứa, không hết khi bôi thuốc, tồn tại dai dẳng. |
+| **U hắc tố (Melanoma)** | Phân biệt với BCC thể sắc tố. Soi da (Dermoscopy) BCC sẽ thấy cấu trúc "lá phong" (leaf-like areas) hoặc "bánh xe nan hoa" (spoke-wheel), không có mạng lưới sắc tố (pigment network) như Melanoma. |
+
+## 5. Phác đồ điều trị chi tiết
+
+Mục tiêu là loại bỏ sạch tế bào ung thư với mức độ tàn phá mô lành ít nhất.
+
+### A. Phẫu thuật (Tiêu chuẩn vàng)
+
+1. **Phẫu thuật Mohs (Mohs Micrographic Surgery):**
+* *Chỉ định:* BCC vùng mặt (mắt, mũi, môi, tai), BCC thể xơ hóa, hoặc BCC tái phát.
+* *Ưu điểm:* Tỷ lệ khỏi bệnh cao nhất (99%). Bảo tồn tối đa da lành để đảm bảo thẩm mỹ khuôn mặt.
+
+
+2. **Cắt bỏ rộng (Excision):**
+* *Chỉ định:* BCC thể nốt ở thân mình, tay chân.
+* *Kỹ thuật:* Cắt u với lề an toàn 3-5mm.
+
+
+
+### B. Thủ thuật và Thuốc (Cho nguy cơ thấp/Thể nông)
+
+1. **Nạo và đốt điện (Curettage and Electrodessication - C&D):**
+* *Kỹ thuật:* Nạo bỏ tổ chức u (mềm, mủn) và đốt đáy.
+* *Nhược điểm:* Để lại sẹo tròn màu trắng, tỷ lệ tái phát cao hơn phẫu thuật.
+
+
+2. **Thuốc bôi tại chỗ:**
+* *Imiquimod (Aldara) hoặc 5-Fluorouracil (5-FU):* Bôi trong 6 tuần.
+* *Chỉ định:* Chỉ dùng cho **BCC thể nông** hoặc người già không thể phẫu thuật.
+
+
+3. **Xạ trị:** Dùng cho bệnh nhân quá lớn tuổi hoặc u xâm lấn quá rộng không thể mổ.
+
+## 6. Lời khuyên chăm sóc và Phòng ngừa
+
+BCC có tỷ lệ sống gần như 100%, nhưng "kẻ thù" thực sự là sự **tái phát** và **xuất hiện u mới**.
+
+* **Nguy cơ nốt thứ 2:** Người đã bị 1 nốt BCC có 40-50% nguy cơ mọc thêm nốt BCC mới trong vòng 5 năm tới.
+* **Theo dõi:** Khám da toàn thân định kỳ 6 tháng - 1 năm/lần.
+* **Chăm sóc sẹo mổ:** Vùng sẹo mổ ung thư cần che chắn nắng tuyệt đối trong 6 tháng đầu để tránh tăng sắc tố.
+* **Cảnh giác:** Bất kỳ vết thương nào trên da (đặc biệt vùng mặt) mà **chảy máu, đóng vảy rồi lại bong ra, không lành sau 3 tuần** đều phải nghi ngờ là BCC (Dấu hiệu "Vết thương không lành").
+
+---
+

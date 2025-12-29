@@ -1,0 +1,85 @@
+# HỒ SƠ BỆNH LÝ: DÀY SỪNG QUANG HÓA (ACTINIC KERATOSIS)
+
+## 1. Định nghĩa khoa học
+
+**Dày sừng quang hóa** (tên khoa học: *Actinic Keratosis* - AK, hay còn gọi là *Solar Keratosis*) là tổn thương da **tiền ung thư** phổ biến nhất.
+Bệnh xuất phát từ sự tăng sinh bất thường của các tế bào sừng (keratinocytes) ở lớp thượng bì do tổn thương DNA tích lũy từ tia cực tím (UV).
+
+* **Bản chất:** Nếu không điều trị, khoảng 10-20% các nốt AK sẽ tiến triển thành **Ung thư biểu mô tế bào vảy (SCC)** xâm lấn. Do đó, việc phát hiện và điều trị AK chính là biện pháp phòng ngừa ung thư da hiệu quả nhất.
+
+## 2. Dấu hiệu nhận biết và Hình thái lâm sàng
+
+Đặc điểm kinh điển nhất của Dày sừng quang hóa là: **"Sờ thấy rõ hơn là nhìn thấy"**.
+
+### A. Hình thái và Màu sắc:
+
+* **Bề mặt:** Tổn thương là các dát hoặc mảng nhỏ, khô, thô ráp, sần sùi như **giấy nhám (sandpaper)**. Có thể có vảy da dính chặt, khó cạy.
+* **Màu sắc:** Đa dạng, thường là màu đỏ, hồng, nâu nhạt, hoặc màu da người. Đôi khi có màu vàng nhạt do lớp sừng dày.
+* **Kích thước:** Thường nhỏ (2-6mm), nhưng có thể liên kết lại thành mảng lớn (do hiện tượng "ung thư hóa vùng").
+* **Sừng da (Cutaneous Horn):** Trong một số trường hợp, lớp sừng phát triển quá mạnh tạo thành một khối cứng nhô cao như chiếc sừng thú nhỏ. Đây là dấu hiệu nguy cơ cao bên dưới đã có ung thư xâm lấn.
+
+### B. Vị trí thường gặp (Vùng phơi sáng):
+
+* Da đầu (ở nam giới hói đầu).
+* Vành tai.
+* Mặt (trán, mũi, má).
+* Mu bàn tay và cẳng tay.
+
+## 3. Nguyên nhân và Yếu tố nguy cơ
+
+Tương tự như ung thư da, nguyên nhân chủ đạo là **Tia cực tím (UV)**.
+
+* **Phơi nắng tích lũy:** Bệnh thường gặp ở người lớn tuổi (>40 tuổi) có tiền sử làm việc ngoài trời nhiều năm (nông dân, ngư dân, thợ xây dựng).
+* **Tuýp da:** Người da trắng (Fitzpatrick I, II) cực kỳ dễ bị. Người da vàng ít bị hơn nhưng vẫn gặp.
+* **Suy giảm miễn dịch:** Người ghép tạng hoặc nhiễm HIV có nguy cơ bị AK rất cao và chuyển biến thành ung thư nhanh hơn.
+
+## 4. Chẩn đoán phân biệt
+
+Cần huấn luyện AI phân biệt AK với các tổn thương lành tính và ác tính sau:
+
+| Bệnh lý | Đặc điểm phân biệt với Dày sừng quang hóa (AK) |
+| --- | --- |
+| **Ung thư tế bào vảy (SCC)** | Đây là phân biệt khó nhất và quan trọng nhất. SCC thường có nền cứng (thâm nhiễm), dày sừng nhiều hơn, đau hoặc loét. AK thường chỉ nằm nông ở bề mặt. |
+| **Dày sừng tiết bã (Seborrheic Keratosis)** | SK trông như "sáp dán", ranh giới rõ, bề mặt mỡ màng hơn. AK thì khô khốc, thô ráp, ranh giới với da lành thường không rõ nét (lem nhem). |
+| **Ung thư tế bào đáy thể nông** | Thường có bờ viền dạng sợi chỉ, bóng láng hơn. AK thì nhám và không bóng. |
+| **Chàm (Eczema) / Vảy nến** | Cũng đỏ và bong vảy, nhưng thường ngứa, xuất hiện ở cả vùng không phơi nắng. AK thường không ngứa hoặc chỉ châm chích nhẹ khi ra nắng. |
+
+## 5. Phác đồ điều trị chi tiết
+
+Mục tiêu điều trị là phá hủy các tế bào sừng bất thường để ngăn chặn tiến triển thành ung thư.
+
+### A. Điều trị đích điểm (Lesion-directed therapy)
+
+Dùng khi bệnh nhân chỉ có vài nốt AK riêng lẻ.
+
+1. **Liệu pháp lạnh (Cryotherapy) - Tiêu chuẩn vàng:**
+* Dùng Nitơ lỏng xịt vào tổn thương.
+* Hiệu quả cao, rẻ tiền. Vết thương sẽ đóng vảy và bong ra sau 1-2 tuần.
+
+
+2. **Nạo (Curettage):** Dùng cho các tổn thương dày sừng nhiều (Sừng da) để lấy mẫu xét nghiệm loại trừ SCC.
+
+### B. Điều trị vùng (Field-directed therapy)
+
+Dùng khi bệnh nhân có nhiều nốt AK trên một vùng rộng (ví dụ: toàn bộ da đầu hoặc mặt), nhằm tiêu diệt cả các tổn thương tiềm ẩn chưa nhìn thấy bằng mắt thường.
+
+1. **Thuốc bôi 5-Fluorouracil (5-FU) (Efudix):**
+* Là thuốc hóa trị tại chỗ. Bôi 1-2 lần/ngày trong 2-4 tuần.
+* *Phản ứng:* Da sẽ trở nên đỏ rực, viêm, loét nhẹ (đây là dấu hiệu thuốc đang tiêu diệt tế bào tiền ung thư). Sau đó da sẽ tái tạo mới rất đẹp.
+
+
+2. **Thuốc bôi Imiquimod (Aldara):** Kích thích hệ miễn dịch tại chỗ tiêu diệt tế bào bệnh.
+3. **Liệu pháp quang động (Photodynamic Therapy - PDT):**
+* Bôi chất nhạy cảm ánh sáng (ALA) lên da, sau đó chiếu đèn đỏ hoặc xanh.
+* Hiệu quả thẩm mỹ cao, ít để lại sẹo nhưng chi phí cao.
+
+
+
+## 6. Lời khuyên chăm sóc tại nhà
+
+* **Chống nắng triệt để:** Đây là bắt buộc. Nếu điều trị xong mà vẫn phơi nắng, AK sẽ tái phát rất nhanh.
+* **Theo dõi chuyển biến:** Nếu một nốt AK trở nên **cứng hơn**, **đau**, **chảy máu** hoặc phát triển nhanh thành cục u, đó là dấu hiệu đã chuyển thành Ung thư tế bào vảy (SCC). Cần đi sinh thiết ngay.
+* **Dưỡng ẩm:** Giúp làm mềm lớp sừng, giảm cảm giác thô ráp khó chịu.
+
+---
+

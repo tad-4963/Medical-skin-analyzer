@@ -7,7 +7,7 @@ class Settings(BaseSettings):
     
     # Load API Key 
     OPENAI_API_KEY: str = ""
-    
+    GOOGLE_API_KEY: str = ""
     # Cấu hình nạp file .env
     class Config:
         env_file = ".env"

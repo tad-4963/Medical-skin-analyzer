@@ -1,0 +1,123 @@
+
+
+# HỒ SƠ BỆNH LÝ: NỐT RUỒI LÀNH TÍNH (MELANOCYTIC NEVUS)
+
+## 1. Định nghĩa khoa học
+
+**Nốt ruồi lành tính** (tên khoa học: *Benign Melanocytic Nevus*) là một tổn thương da lành tính phổ biến, hình thành do sự tăng sinh khu trú của các **tế bào hắc tố (melanocytes)**. Thay vì phân bố rải rác trên da để tạo sắc tố đều màu, các tế bào này tập trung lại thành ổ (nests).
+
+Về mặt mô bệnh học, nốt ruồi không phải là ung thư và hiếm khi tiến triển thành ác tính, trừ khi có các yếu tố kích thích đột biến gen.
+
+## 2. Dấu hiệu nhận biết và Hình thái lâm sàng
+
+Nốt ruồi lành tính có hình thái rất đa dạng, tùy thuộc vào vị trí của tế bào hắc tố nằm ở lớp nào của da (thượng bì, trung bì hay ranh giới).
+
+### A. Phân loại theo hình thái lâm sàng:
+
+1. **Nốt ruồi ranh giới (Junctional Nevus):**
+* **Vị trí:** Tế bào hắc tố nằm ở lớp đáy thượng bì (ranh giới giữa thượng bì và trung bì).
+* **Hình thái:** Dát phẳng, không gồ lên mặt da.
+* **Màu sắc:** Nâu sẫm đến đen đồng nhất.
+
+
+2. **Nốt ruồi hỗn hợp (Compound Nevus):**
+* **Vị trí:** Tế bào hắc tố xâm nhập cả vào trung bì nông.
+* **Hình thái:** Gồ nhẹ lên mặt da, bề mặt mịn hoặc sần sùi nhẹ.
+* **Màu sắc:** Màu nâu nhạt hoặc nâu đậm, trung tâm thường đậm màu hơn viền.
+
+
+3. **Nốt ruồi trong bì (Intradermal Nevus):**
+* **Vị trí:** Tế bào hắc tố nằm hoàn toàn trong lớp trung bì.
+* **Hình thái:** Gồ cao, hình vòm (dome-shaped) hoặc dạng nhú (papillomatous). Có thể có lông mọc ở trung tâm.
+* **Màu sắc:** Màu da (skin-colored) hoặc nâu rất nhạt. Khi ấn vào cảm giác mềm.
+
+
+
+### B. Đặc điểm nhận diện chung (Quy tắc "Bình thường"):
+
+Khác với ung thư hắc tố, nốt ruồi lành tính thường có các đặc điểm ổn định:
+
+* **Tính đối xứng:** Hai nửa của nốt ruồi tương đồng nhau.
+* **Bờ viền:** Rõ nét, đều đặn, không nham nhở.
+* **Màu sắc:** Một màu đồng nhất (thường là nâu hoặc đen).
+* **Kích thước:** Thường nhỏ hơn 6mm.
+
+## 3. Nguyên nhân và Yếu tố nguy cơ
+
+Sự hình thành nốt ruồi là kết quả của tương tác giữa yếu tố di truyền và môi trường:
+
+* **Yếu tố Di truyền (Genetics):** Đây là yếu tố chủ đạo xác định số lượng nốt ruồi trên cơ thể. Đột biến soma ở gen *BRAF* hoặc *NRAS* thường được tìm thấy trong các nốt ruồi lành tính, dẫn đến sự tăng sinh tế bào nhưng sau đó dừng lại (cơ chế oncogene-induced senescence).
+* **Tia cực tím (UV Radiation):** Tiếp xúc nhiều với ánh nắng mặt trời, đặc biệt là tiền sử bị cháy nắng ở thời thơ ấu, làm tăng số lượng nốt ruồi mắc phải.
+* **Nội tiết tố:** Nốt ruồi có xu hướng đậm màu hơn hoặc to lên trong giai đoạn dậy thì hoặc thai kỳ do ảnh hưởng của hormone.
+* **Suy giảm miễn dịch:** Bệnh nhân dùng thuốc ức chế miễn dịch có thể xuất hiện nhiều nốt ruồi hơn.
+
+## 4. Chẩn đoán phân biệt
+
+Trong lâm sàng, việc quan trọng nhất là phân biệt nốt ruồi lành tính với **Ung thư hắc tố (Melanoma)** và các tổn thương da khác:
+
+| Bệnh lý | Đặc điểm phân biệt với Nốt ruồi lành tính |
+| --- | --- |
+| **Ung thư hắc tố (Melanoma)** | Bất đối xứng, bờ không đều, màu sắc loang lổ (đen, xanh, đỏ, trắng), đường kính , tiến triển nhanh (Quy tắc ABCDE). |
+| **Dày sừng tiết bã (Seborrheic Keratosis)** | Bề mặt thô ráp, sần sùi như sáp nến dán vào da, thường gặp ở người lớn tuổi, có nang giả sừng. |
+| **Tàn nhang (Freckles/Ephelides)** | Các đốm nhỏ li ti, nhạt màu, xuất hiện nhiều ở vùng phơi sáng, đậm lên khi ra nắng và mờ đi vào mùa đông (nốt ruồi không thay đổi theo mùa). |
+| **Đồi mồi (Lentigo)** | Các dát nâu do lão hóa quang hóa, thường gặp ở người già, không gồ lên, kích thước lớn hơn tàn nhang. |
+| **U xơ da (Dermatofibroma)** | Cứng chắc, dấu hiệu "dimple sign" (lõm xuống khi bóp nhẹ hai bên), thường ở chân. |
+
+## 5. Phác đồ điều trị chi tiết
+
+Về nguyên tắc y khoa, **nốt ruồi lành tính không cần điều trị** trừ khi có nhu cầu thẩm mỹ hoặc nốt ruồi nằm ở vị trí thường xuyên bị ma sát (cạo râu, cạp quần) gây kích ứng.
+
+**Cảnh báo:** Tuyệt đối không tự ý dùng "thuốc chấm tẩy nốt ruồi" bán trôi nổi (thường chứa axit nồng độ cao) vì nguy cơ sẹo lõm, sẹo lồi và nhiễm trùng rất cao.
+
+### A. Phương pháp Nội khoa (Thuốc bôi)
+
+Hiện nay **chưa có thuốc bôi chuẩn y khoa** nào có thể làm biến mất hoàn toàn nốt ruồi lành tính (vì chân nốt ruồi nằm sâu dưới lớp màng đáy). Các loại kem tẩy nốt ruồi trên thị trường thực chất là hóa chất ăn mòn da, bác sĩ da liễu **không khuyến cáo**.
+
+### B. Phương pháp Ngoại khoa & Thủ thuật (Tiêu chuẩn vàng)
+
+Tùy vào kích thước và độ sâu, bác sĩ sẽ chỉ định phương pháp phù hợp:
+
+1. **Laser CO2 Siêu xung (Fractional/Super Pulse):**
+* *Chỉ định:* Nốt ruồi phẳng, kích thước nhỏ (), nốt ruồi ở thượng bì/ranh giới.
+* *Cơ chế:* Sử dụng bước sóng 10.600nm làm bốc bay tổ chức mô nốt ruồi một cách chính xác, hạn chế tổn thương nhiệt mô lành.
+* *Ưu điểm:* Ít chảy máu, thời gian lành nhanh, thẩm mỹ cao.
+* *Nhược điểm:* Có thể phải bắn nhiều lần nếu chân sâu.
+
+
+2. **Tiểu phẫu cắt bỏ (Surgical Excision):**
+* *Chỉ định:* Nốt ruồi kích thước lớn (), nốt ruồi gồ cao, nốt ruồi nghi ngờ ác tính (cần lấy mô làm sinh thiết) hoặc nốt ruồi có chân sâu ở trung bì/hạ bì.
+* *Kỹ thuật:* Bác sĩ gây tê tại chỗ, rạch da hình thoi (fusiform) bao quanh nốt ruồi, lấy toàn bộ tổn thương và khâu thẩm mỹ.
+* *Ưu điểm:* Loại bỏ triệt để, tỷ lệ tái phát cực thấp, có bệnh phẩm để xét nghiệm mô bệnh học.
+* *Nhược điểm:* Để lại sẹo đường thẳng (tuy nhiên sẹo này thường mờ và đẹp nếu khâu đúng kỹ thuật).
+
+
+3. **Cắt hớt (Shave Excision):**
+* *Chỉ định:* Nốt ruồi dạng nhú gồ cao lên mặt da (thường là nốt ruồi trong bì).
+* *Kỹ thuật:* Dùng dao mỏng cắt ngang bề mặt da phẳng với nốt ruồi.
+* *Ưu điểm:* Không cần khâu, lành thương nhanh.
+* *Nhược điểm:* Tỷ lệ tái phát cao hơn vì vẫn còn sót phần chân nốt ruồi phía dưới.
+
+
+
+## 6. Lời khuyên chăm sóc tại nhà và Theo dõi
+
+### Chăm sóc sau thủ thuật (Laser/Tiểu phẫu):
+
+* **Vệ sinh:** Giữ vết thương khô trong 24h đầu. Vệ sinh bằng nước muối sinh lý (NaCl 0.9%) nhẹ nhàng.
+* **Thuốc bôi:** Sử dụng mỡ kháng sinh (như Mupirocin hoặc Fusidic acid) trong 3-5 ngày đầu để chống nhiễm khuẩn. Sau khi bong vảy, bắt đầu bôi kem trị sẹo/tái tạo da.
+* **Tránh nắng:** Đây là yếu tố quan trọng nhất để tránh tăng sắc tố sau viêm (vết thâm). Che chắn kỹ vùng da non.
+
+### Theo dõi định kỳ (Quy tắc ABCDE):
+
+Người bệnh nên tự kiểm tra da mỗi tháng một lần. Hãy đến gặp bác sĩ ngay nếu nốt ruồi có dấu hiệu:
+
+* **A (Asymmetry):** Mất đối xứng.
+* **B (Border):** Bờ viền nham nhở, răng cưa.
+* **C (Color):** Màu sắc không đều (chỗ đậm, chỗ nhạt, có màu lạ).
+* **D (Diameter):** Kích thước tăng nhanh hoặc lớn hơn 6mm.
+* **E (Evolving):** Tiến triển lạ (chảy máu, ngứa, đóng vảy, thay đổi hình dạng nhanh).
+
+---
+
+*Tài liệu này được biên soạn bởi Bác sĩ Da liễu với mục đích cung cấp thông tin y khoa. Bệnh nhân vui lòng thăm khám trực tiếp để được chẩn đoán chính xác nhất.*
+

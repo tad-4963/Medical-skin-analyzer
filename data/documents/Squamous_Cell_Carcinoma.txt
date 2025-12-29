@@ -1,0 +1,97 @@
+
+
+# HỒ SƠ BỆNH LÝ: UNG THƯ BIỂU MÔ TẾ BÀO VẢY (SCC)
+
+## 1. Định nghĩa khoa học
+
+**Ung thư biểu mô tế bào vảy** (tên khoa học: *Cutaneous Squamous Cell Carcinoma - cSCC*) là một khối u ác tính xuất phát từ sự tăng sinh không kiểm soát của **tế bào sừng (keratinocytes)** nằm ở lớp gai (stratum spinosum) của thượng bì.
+
+* **Mức độ ác tính:** Cao hơn Ung thư tế bào đáy (BCC) nhưng thấp hơn U hắc tố (Melanoma).
+* **Khả năng xâm lấn:** SCC có khả năng xâm lấn phá hủy mô xung quanh và có nguy cơ di căn hạch hoặc di căn xa nếu không được điều trị (khác với BCC hiếm khi di căn).
+
+## 2. Dấu hiệu nhận biết và Hình thái lâm sàng
+
+Tổn thương SCC thường xuất hiện ở những vùng da tiếp xúc nhiều với ánh nắng (đầu, cổ, mặt, mu bàn tay, cẳng tay). Hình thái lâm sàng chia làm các giai đoạn/thể chính:
+
+### A. Tổn thương tiền ung thư (Cảnh báo sớm): Dày sừng ánh sáng (Actinic Keratosis - AK)
+
+* Trước khi tiến triển thành SCC xâm lấn, da thường xuất hiện các mảng **Dày sừng ánh sáng**.
+* **Đặc điểm:** Các mảng da thô ráp, sần sùi như giấy nhám, màu đỏ hoặc hồng, bong vảy, sờ thấy cứng/nhám hơn là nhìn thấy.
+
+### B. Ung thư tế bào vảy tại chỗ (Bowen’s Disease / SCC in situ)
+
+* Tế bào ung thư chỉ khu trú ở thượng bì, chưa phá vỡ màng đáy.
+* **Hình thái:** Một mảng da màu đỏ, ranh giới khá rõ, bề mặt phủ vảy tiết hoặc vảy da, trông giống như bệnh chàm (Eczema) hoặc nấm da nhưng không đáp ứng với thuốc bôi corticoit/kháng nấm.
+
+### C. Ung thư tế bào vảy xâm lấn (Invasive SCC)
+
+Khi khối u đã xâm lấn xuống trung bì:
+
+* **Khối u/Cục (Nodule):** Gồ cao lên mặt da, màu đỏ hoặc màu da.
+* **Đặc tính sừng hóa:** Bề mặt thường sần sùi, **đóng vảy dày**, có thể có "sừng da" (cutaneous horn) nhô lên cao.
+* **Loét (Ulceration):** Trung tâm khối u thường bị hoại tử, loét, dễ chảy máu khi va chạm nhẹ.
+* **Độ cứng (Induration):** Đây là đặc điểm quan trọng nhất. Khi sờ vào đáy tổn thương thấy **nền cứng chắc**, thâm nhiễm sâu xuống dưới (khác với BCC sờ thấy mềm hơn).
+
+## 3. Nguyên nhân và Yếu tố nguy cơ
+
+Cơ chế bệnh sinh chủ yếu liên quan đến tổn thương DNA tích lũy:
+
+* **Tia cực tím (UV Radiation):** Tiếp xúc ánh nắng **tích lũy mạn tính** trong thời gian dài (nông dân, công nhân xây dựng, người tắm nắng). Đây là khác biệt với Melanoma (thường do phơi nắng cường độ cao ngắt quãng).
+* **Tiền sử tổn thương da:** SCC có thể phát triển trên nền sẹo bỏng cũ, vết loét mạn tính lâu ngày, sẹo lupus (gọi là **Loét Marjolin** - loại này rất ác tính).
+* **Virus HPV:** Nhiễm Human Papillomavirus (đặc biệt chủng 16, 18) liên quan đến SCC ở vùng sinh dục và quanh móng.
+* **Suy giảm miễn dịch:** Bệnh nhân ghép tạng dùng thuốc ức chế miễn dịch có nguy cơ mắc SCC cao gấp 65-250 lần người bình thường.
+
+## 4. Chẩn đoán phân biệt
+
+Đối với mô hình AI và bác sĩ lâm sàng, cần phân biệt SCC với:
+
+| Bệnh lý | Đặc điểm phân biệt với SCC |
+| --- | --- |
+| **Ung thư tế bào đáy (BCC)** | BCC thường bóng, láng (pearly), nhìn xuyên thấu thấy giãn mạch, ít đóng vảy dày sừng hơn SCC. Bờ BCC thường cuộn tròn (rolled border). |
+| **U gai sừng (Keratoacanthoma)** | Một biến thể của SCC nhưng mọc *cực nhanh* (trong vài tuần), hình dạng như "ngọn núi lửa" với nút sừng lớn ở trung tâm. Có thể tự thoái triển. |
+| **Dày sừng tiết bã (Seborrheic Keratosis)** | Tổn thương lành tính, nhìn như sáp dán lên da, màu nâu/đen, bề mặt mỡ màng, không có nền cứng thâm nhiễm. |
+| **Hạt cơm (Warts/Verruca)** | Do virus HPV lành tính, bề mặt sần sùi nhưng thường có các chấm đen nhỏ (mạch máu tắc), không loét, không xâm lấn sâu. |
+
+## 5. Phác đồ điều trị chi tiết
+
+Mục tiêu là loại bỏ hoàn toàn khối u và bảo tồn chức năng thẩm mỹ.
+
+### A. Phẫu thuật (Tiêu chuẩn vàng)
+
+1. **Phẫu thuật Mohs (Mohs Micrographic Surgery):**
+* *Chỉ định:* SCC ở vùng mặt, tai, ngón tay (nơi cần tiết kiệm da), hoặc SCC tái phát, xâm lấn sâu.
+* *Kỹ thuật:* Cắt từng lớp mỏng và soi kính hiển vi ngay tại chỗ (intraoperative pathology) cho đến khi sạch tế bào ung thư. Tỷ lệ khỏi bệnh cao nhất (97-99%).
+
+
+2. **Phẫu thuật cắt bỏ rộng (Wide Local Excision):**
+* *Chỉ định:* SCC ở thân mình, tay chân.
+* *Kỹ thuật:* Cắt bỏ u với lề an toàn (thường là 4-6mm tùy kích thước u).
+
+
+
+### B. Các phương pháp khác (Cho tổn thương nông/nguy cơ thấp)
+
+* **Nạo và đốt điện (Curettage and Electrodessication):** Chỉ dùng cho SCC tại chỗ hoặc kích thước rất nhỏ.
+* **Liệu pháp lạnh (Cryotherapy):** Dùng Nitơ lỏng. Thường chỉ dùng cho tiền ung thư (Dày sừng ánh sáng) hoặc Bowen's disease.
+* **Xạ trị (Radiation therapy):** Dùng cho bệnh nhân già yếu không thể phẫu thuật, hoặc bổ trợ sau mổ nếu u đã xâm lấn dây thần kinh.
+
+### C. Điều trị toàn thân (Cho giai đoạn di căn)
+
+* **Liệu pháp miễn dịch:** Cemiplimab hoặc Pembrolizumab (ức chế PD-1) hiện là lựa chọn hàng đầu cho SCC di căn không thể phẫu thuật/xạ trị.
+
+## 6. Lời khuyên chăm sóc và Phòng ngừa
+
+### Chăm sóc vết thương sau điều trị:
+
+* Tránh nước vào vết mổ trong 24-48h đầu.
+* Thay băng hàng ngày, giữ vết thương sạch.
+* Hạn chế vận động mạnh nếu vết mổ ở vùng da căng (lưng, vai) để tránh bục chỉ.
+
+### Phòng ngừa và Theo dõi:
+
+* **Bảo vệ da:** Đội mũ rộng vành, mặc áo dài tay, dùng kem chống nắng là bắt buộc vì người đã bị 1 nốt SCC có nguy cơ rất cao bị nốt thứ 2.
+* **Theo dõi sẹo cũ:** Đặc biệt lưu ý các vết loét lâu lành (trên 1 tháng) hoặc sẹo bỏng cũ bỗng nhiên thay đổi tính chất (lở loét, chảy máu).
+* **Khám định kỳ:** 3-6 tháng/lần trong năm đầu sau điều trị.
+
+---
+

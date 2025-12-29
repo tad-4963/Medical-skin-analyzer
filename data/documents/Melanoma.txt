@@ -1,0 +1,91 @@
+
+# HỒ SƠ BỆNH LÝ: U HẮC TỐ ÁC TÍNH (MALIGNANT MELANOMA)
+
+## 1. Định nghĩa khoa học
+
+**U hắc tố ác tính (Melanoma)** là loại ung thư da nguy hiểm nhất, xuất phát từ sự biến đổi ác tính của các **tế bào hắc tố (melanocytes)**.
+Khác với ung thư biểu mô tế bào đáy (BCC) hay tế bào vảy (SCC), Melanoma có khả năng xâm lấn sâu xuống trung bì và di căn xa đến các cơ quan nội tạng (phổi, gan, não) rất sớm qua đường bạch huyết và đường máu nếu không được phát hiện kịp thời.
+
+## 2. Dấu hiệu nhận biết và Triệu chứng lâm sàng
+
+Lâm sàng của Melanoma rất đa dạng, nhưng **Quy tắc ABCDE** và **Dấu hiệu "Vịt con xấu xí"** là kim chỉ nam trong chẩn đoán.
+
+### A. Quy tắc ABCDE (Tiêu chuẩn vàng chẩn đoán sơ bộ):
+
+* **A - Asymmetry (Bất đối xứng):** Nếu vẽ một đường chia đôi tổn thương, hai nửa không chồng khít lên nhau.
+* **B - Border (Bờ viền):** Bờ tổn thương không đều, nham nhở, có khía, ranh giới với da lành không rõ ràng (lem nhem).
+* **C - Color (Màu sắc):** Màu sắc không đồng nhất (Variegated color). Trên cùng một tổn thương có thể thấy hỗn hợp các màu: đen, nâu đậm, nâu nhạt, xanh lơ (blue-white veil - dấu hiệu xâm lấn sâu), đỏ hoặc trắng (dấu hiệu thoái triển).
+* **D - Diameter (Đường kính):** Thường lớn hơn **6mm** (tuy nhiên vẫn có melanoma kích thước nhỏ hơn).
+* **E - Evolving (Tiến triển):** Bất kỳ nốt ruồi nào thay đổi nhanh về kích thước, hình dạng, màu sắc, hoặc xuất hiện triệu chứng cơ năng (ngứa, đau) đều đáng ngờ.
+
+### B. Các thể lâm sàng đặc biệt (Cần lưu ý cho AI Training):
+
+1. **Thể lan rộng nông (Superficial Spreading Melanoma):** Phổ biến nhất (70%), thường gặp ở lưng nam giới và chân nữ giới. Dát phẳng hoặc gồ nhẹ, màu sắc loang lổ.
+2. **Thể nốt (Nodular Melanoma):** Xâm lấn sâu ngay từ đầu (Vertical growth phase). Khối u hình vòm, màu đen sẫm hoặc xanh đen, dễ chảy máu. Rất nguy hiểm.
+3. **Thể đầu chi (Acral Lentiginous Melanoma):** **Rất quan trọng ở người Châu Á/Da màu.** Xuất hiện ở lòng bàn tay, lòng bàn chân, kẽ ngón hoặc dưới móng tay (vệt đen dọc móng - Hutchinson sign). Thường bị chẩn đoán nhầm là tụ máu hay nấm móng.
+
+## 3. Nguyên nhân và Yếu tố nguy cơ
+
+Sự phát sinh Melanoma liên quan mật thiết đến tổn thương DNA của tế bào hắc tố:
+
+* **Tia cực tím (UV Radiation):** Đặc biệt là tia **UVB**. Tiền sử bị **cháy nắng (sunburn)** gây phồng rộp, lột da (đặc biệt là thời thơ ấu) là yếu tố nguy cơ cao hơn so với việc phơi nắng tích lũy mạn tính.
+* **Số lượng nốt ruồi:** Người có trên 50 nốt ruồi thông thường hoặc có **Hội chứng nốt ruồi không điển hình (Dysplastic Nevus Syndrome)**.
+* **Yếu tố di truyền:** Khoảng 10% bệnh nhân có tiền sử gia đình. Các đột biến gen thường gặp: *CDKN2A*, *BRAF* (khoảng 50% trường hợp melanoma có đột biến BRAF V600E), *NRAS*.
+* **Tuýp da (Fitzpatrick):** Tuýp da I và II (da trắng, mắt xanh, tóc vàng/đỏ) có nguy cơ cao nhất. Tuy nhiên, người da vàng/đen vẫn bị (thường gặp thể đầu chi).
+
+## 4. Chẩn đoán phân biệt
+
+Cần phân biệt Melanoma với các tổn thương lành tính hoặc ác tính khác để tránh bỏ sót hoặc điều trị quá tay:
+
+| Bệnh lý | Đặc điểm phân biệt với Melanoma |
+| --- | --- |
+| **Nốt ruồi lành tính (Nevus)** | Đồng nhất một màu, đối xứng, bờ đều, kích thước ổn định theo thời gian. |
+| **Dày sừng tiết bã (Seborrheic Keratosis)** | Có nang giả sừng (horn cysts), bề mặt sần sùi, giới hạn rõ như "dán" lên da. Soi dermoscopy thấy cấu trúc dạng não (cerebriform). |
+| **Ung thư biểu mô tế bào đáy sắc tố (Pigmented BCC)** | Bờ cuộn như chuỗi hạt ngọc, giãn mạch máu (telangiectasia), thường có loét ở trung tâm. |
+| **Tụ máu dưới móng (Subungual Hematoma)** | Có tiền sử chấn thương, vệt màu di chuyển ra xa gốc móng theo thời gian móng mọc (Melanoma xuất phát từ gốc móng và lan rộng ra). |
+| **U hạt nhiễm khuẩn (Pyogenic Granuloma)** | Nốt màu đỏ tươi, dễ chảy máu, phát triển rất nhanh (vài tuần), thường có "cổ" thắt lại ở chân. Có thể nhầm với Melanoma thể Amelanotic (không sắc tố). |
+
+## 5. Phác đồ điều trị chi tiết
+
+Chiến lược điều trị phụ thuộc hoàn toàn vào giai đoạn bệnh (Staging) dựa trên hệ thống TNM và độ dày Breslow (độ sâu xâm lấn).
+
+### A. Phẫu thuật (Tiêu chuẩn vàng cho giai đoạn sớm)
+
+* **Cắt bỏ rộng (Wide Local Excision):** Cắt bỏ khối u cùng với một phần da lành xung quanh (lề an toàn) để đảm bảo không còn tế bào ung thư.
+* *Melanoma tại chỗ (in situ):* Lề 0.5 - 1 cm.
+* *Độ dày Breslow  1mm:* Lề 1 cm.
+* *Độ dày Breslow 1-2mm:* Lề 1 - 2 cm.
+* *Độ dày Breslow :* Lề 2 cm.
+
+
+* **Sinh thiết hạch cửa (Sentinel Lymph Node Biopsy - SLNB):** Chỉ định cho các khối u có độ dày Breslow  hoặc có dấu hiệu loét, để kiểm tra xem ung thư đã di căn hạch vùng chưa.
+
+### B. Điều trị toàn thân (Cho giai đoạn tiến xa/Di căn)
+
+Đây là bước tiến đột phá của y học hiện đại trong 10 năm qua:
+
+1. **Liệu pháp nhắm trúng đích (Targeted Therapy):**
+* Chỉ định cho bệnh nhân có đột biến gen **BRAF V600**.
+* Thuốc: Kết hợp ức chế BRAF (Vemurafenib, Dabrafenib) và ức chế MEK (Trametinib, Cobimetinib).
+* Tác dụng: Làm khối u thu nhỏ nhanh chóng.
+
+
+2. **Liệu pháp miễn dịch (Immunotherapy):**
+* Cơ chế: "Tháo bỏ phanh hãm" để hệ miễn dịch tự tiêu diệt tế bào ung thư.
+* Thuốc ức chế PD-1: **Pembrolizumab**, **Nivolumab**.
+* Thuốc ức chế CTLA-4: **Ipilimumab**.
+* Hiệu quả: Giúp kéo dài thời gian sống đáng kể cho bệnh nhân giai đoạn cuối.
+
+
+3. **Hóa trị và Xạ trị:** Hiện nay ít đóng vai trò chủ đạo, chủ yếu dùng để điều trị triệu chứng (giảm đau do di căn xương/não) hoặc khi các liệu pháp trên thất bại.
+
+## 6. Lời khuyên chăm sóc và Phòng ngừa
+
+Melanoma có thể chữa khỏi hoàn toàn nếu phát hiện sớm (tỷ lệ sống 5 năm > 98% ở giai đoạn khu trú).
+
+* **Chống nắng nghiêm ngặt:** Sử dụng kem chống nắng phổ rộng (Broad-spectrum) chống cả UVA và UVB, chỉ số SPF  30 (hoặc 50+ với da nhạy cảm). Bôi lại mỗi 2 giờ.
+* **Tự khám da (Self-exam):** Thực hiện mỗi tháng 1 lần trước gương toàn thân. Chú ý các vùng "ẩn" như lòng bàn chân, kẽ ngón chân, vùng lưng, da đầu.
+* **Theo dõi nốt ruồi bẩm sinh:** Các nốt ruồi bẩm sinh kích thước lớn () có nguy cơ hóa ác tính cao hơn, cần bác sĩ theo dõi sát.
+* **Đi khám ngay:** Khi thấy một nốt ruồi "khác biệt" so với các nốt còn lại (Dấu hiệu Vịt con xấu xí) hoặc có dấu hiệu chảy máu/không lành.
+
+---

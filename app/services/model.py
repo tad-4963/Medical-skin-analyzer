@@ -9,11 +9,9 @@ class SkinNet(nn.Module):
         super().__init__()
         
         # Load backbone EfficientNet B0
-        # Lưu ý: Lúc inference không cần download weights='DEFAULT' nếu mạng đã load state_dict,
-        # nhưng để an toàn cứ giữ nguyên cấu trúc cũ.
         self.cnn = models.efficientnet_b0(weights=None) 
         
-        # Mở khóa các layer (để khớp với architecture lúc train)
+        # Mở khóa các layer 
         for param in self.cnn.parameters():
             param.requires_grad = True
 
